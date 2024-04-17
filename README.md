@@ -22,3 +22,10 @@ async def main():
 if __name__ == "__main__":
     get_event_loop().run_until_complete(main())
 ```
+
+
+TODO: 
+-> Add Google + Email login
+-> Fix async/aiohttp download drops
+-> Add filter for file type
+-> Add filter for file origin
