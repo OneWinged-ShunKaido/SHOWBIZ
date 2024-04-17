@@ -4,6 +4,9 @@ Use python &amp; SHOWBIZ (https://show-biz.net) api
 Usage Example:
 
 ```python
+from showbiz import ShowBiz
+
+
 async def main():
     showbiz = ShowBiz()
     showbiz.project_id = 41  # set project id (Ado => 41 & default is 0)
