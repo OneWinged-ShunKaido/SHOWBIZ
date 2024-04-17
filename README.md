@@ -1,5 +1,6 @@
 # SHOWBIZ
-Use python &amp; SHOWBIZ (https://show-biz.net) api to download resources from showbiz project
+Use python &amp; SHOWBIZ (https://show-biz.net) api to download resources from showbiz project.
+
 Useful in case nb or participants, creations or inspiration is needed (or any type of additional data)
 
 Usage Example:
