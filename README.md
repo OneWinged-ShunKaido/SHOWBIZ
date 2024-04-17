@@ -27,7 +27,11 @@ if __name__ == "__main__":
 
 
 TODO: 
+
 -> Add Google + Email login
+
 -> Fix async/aiohttp download drops
+
 -> Add filter for file type
+
 -> Add filter for file origin
